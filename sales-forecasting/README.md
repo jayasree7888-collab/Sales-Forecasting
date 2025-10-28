@@ -100,5 +100,6 @@ sales-forecasting/
 
 ❤️ Author
 
-Developed by [pavan kumar]
+Developed by [jaya sree]
 If you like this project, please ⭐ the repository and share your feedback!
+
